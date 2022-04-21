@@ -7,16 +7,6 @@ UCAPAN LEBARAN IDUL FITRI 20222
 
 </head>
 <body>
-    <div class=container>
-        <div> </div>
-        <div> </div>
-        <div> </div>
-        <div> </div>
-        <div> </div>
-        <div> </div>
-        <div> </div>
-        <div> </div>
-        <div> </div>
 
     </div> 
     <div class='greeting-text'> 
