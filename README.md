@@ -1,4 +1,4 @@
-UCAPAN LEBARAN IDUL FITRI 20222
+LEBARAN IDUL FITRI 20222
 
 <head>
     <title>Document</title>
@@ -7,8 +7,6 @@ UCAPAN LEBARAN IDUL FITRI 20222
 
 </head>
 <body>
-
-    </div> 
     <div class='greeting-text'> 
         <br>
         <h2>KELUARGA BESAR</h2>
