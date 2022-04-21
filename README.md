@@ -14,7 +14,7 @@ LEBARAN IDUL FITRI 20222
         <p>Mengucapkan</p>
 
     <img width="700 px"
-         height="400 px" 
+         height="250 px" 
         src="bnth.jpg"> 
         <h1>.:  SELAMAT HARI RAYA IDUL FITRI 1443 H :.</h1>
          <p>" Bulan suci Ramadan telah berlalu, fajar hari kemenangan tampak mewarnai langit, membawa sinar kedamaian dan kesucian. Selamat idul fitri 1443 H. Mohon Maaf Lahir dan Batin</p>
