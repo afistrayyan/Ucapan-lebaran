@@ -1,10 +1,5 @@
-LEBARAN IDUL FITRI 20222
-
-<head>
-    <title>Document</title>
-    <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
-    <link href="./style.css" rel="stylesheet">
-
+LEBARAN IDUL FITRI 2022
+ 
 </head>
 <body>
     <div class='greeting-text'> 
