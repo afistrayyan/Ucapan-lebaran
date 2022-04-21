@@ -19,10 +19,8 @@ UCAPAN LEBARAN IDUL FITRI 20222
          height="400 px" 
         src="bnth.jpg"> 
         <h1>.:  SELAMAT HARI RAYA IDUL FITRI 1443 H :.</h1>
-         <p>" Bulan suci Ramadan telah berlalu, fajar hari kemenangan tampak mewarnai langit, membawa sinar kedamaian dan kesucian. Selamat idul fitri 1443 H. Mohon maaf lahir dan batin</p>
+         <p>" Bulan suci Ramadan telah berlalu, fajar hari kemenangan tampak mewarnai langit, membawa sinar kedamaian dan kesucian. Selamat idul fitri 1443 H. Mohon Maaf Lahir dan Batin</p>
 
     <footer style="text-align: center;">
         <p>1443 H/2022 M</p>
-
-</body>
-</html>
+ 
