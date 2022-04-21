@@ -1,12 +1,16 @@
 LEBARAN IDUL FITRI 2022
+<head>
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+    <link href="./style.css" rel="stylesheet">
  
 </head>
 <body>
     <div class='greeting-text'> 
         <br>
-        <h2>KELUARGA BESAR</h2>
-        <h1>BANI THOHA MURTADLO</h1>
+         <h1>KELUARGA BESAR<br><span>BANI THOHA MURTADLO</span></h1>
         <p>Mengucapkan</p>
+        
 
     <img width="700 px"
          height="250 px" 
